@@ -9,9 +9,7 @@
 
 ###
 
-<br clear="both">
 
-<img align="left" height="150" src="https://imgur.com/2wvcDll"  />
 
 ###
 
@@ -38,8 +36,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GalllaxyCode/GalllaxyCode/output/snake.svg" alt="Snake animation" />
 
 ###
